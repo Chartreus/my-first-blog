@@ -25,7 +25,7 @@ SECRET_KEY = 'fj4^j#xz-f_x@r(w&mw(hntev8140)t36dn9a$_2)*mci7lqd='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'chartreus.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
